@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+transformers
+torch
+python-dotenv
+streamlit
+chainlit
+uvicorn
+huggingface_hub[hf_xet]

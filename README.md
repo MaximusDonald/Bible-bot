@@ -1,0 +1,4 @@
+# Bible_bot_2
+Bible bot is an artificial intelligence designed to engage in conversations about theological, spiritual, and biblical topics. It allows users to explore Scripture, ask questions about the Christian faith, and discover various interpretations from major traditions (Catholic, Protestant, Orthodox, etc.).
+
+With a knowledge base enriched by the Bible and trusted theological sources, BIBLE bot provides thoughtful, respectful, and educational responses. It’s tailored for believers, seekers, and scholars alike — a companion for reflection, study, and deeper understanding of sacred texts.

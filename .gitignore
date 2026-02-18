@@ -1,0 +1,11 @@
+.env
+/env
+bible_env
+__pycache__/
+/.files
+venv/
+venv
+*.pyc
+*.pyo
+*.vscode/
+*.chainlit/
